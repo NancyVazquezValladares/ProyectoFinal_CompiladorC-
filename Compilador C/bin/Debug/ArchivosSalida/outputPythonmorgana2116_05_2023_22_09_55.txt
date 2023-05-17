@@ -1,0 +1,21 @@
+Compilador Id  0
+< C.Esp
+> C.Esp
+<= C.Esp
+>= C.Esp
+== C.Esp
+"salu2" String0
+9.9 Cnte. Real0
++ C.Esp
+6 Cnte. Entera0
+== C.Esp
+1 Cnte. Entera1
+For   Pr   13
+else Id  1
+Facultad Id  2
+de Id  3
+ingenieria Id  4
+Mecanica Id  5
+y Id  6
+Electrica Id  7
+Electrica Id  7

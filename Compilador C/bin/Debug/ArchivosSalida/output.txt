@@ -1,0 +1,11 @@
+a Id  0
+a Id  0
+2; Cnte. Entera0
+b Id  1
+b Id  1
+56; Cnte. Entera1
+56.75 Cnte. Real0
+"abcd" String0
+"abcd" String0
+int   Pr   18
+public Id  2

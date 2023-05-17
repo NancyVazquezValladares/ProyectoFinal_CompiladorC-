@@ -1,0 +1,24 @@
+C:\Users\52866\Desktop\Compilador C\Compilador C\obj\Debug\Compilador C.csprojAssemblyReference.cache
+C:\Users\52866\Desktop\Compilador C\Compilador C\obj\Debug\Compilador_C.Form1.resources
+C:\Users\52866\Desktop\Compilador C\Compilador C\obj\Debug\Compilador_C.Properties.Resources.resources
+C:\Users\52866\Desktop\Compilador C\Compilador C\obj\Debug\Compilador C.csproj.GenerateResource.cache
+C:\Users\52866\Desktop\Compilador C\Compilador C\obj\Debug\Compilador C.csproj.CoreCompileInputs.cache
+C:\Users\52866\Desktop\Compilador C\Compilador C\bin\Debug\Compilador C.exe.config
+C:\Users\52866\Desktop\Compilador C\Compilador C\bin\Debug\Compilador C.exe
+C:\Users\52866\Desktop\Compilador C\Compilador C\bin\Debug\Compilador C.pdb
+C:\Users\52866\Desktop\Compilador C\Compilador C\obj\Debug\Compilador C.exe
+C:\Users\52866\Desktop\Compilador C\Compilador C\obj\Debug\Compilador C.pdb
+C:\Users\52866\Desktop\Compilador C\Compilador C\obj\Debug\Compilador_C.CrearUsuario.resources
+C:\Users\52866\Desktop\Compilador C\Compilador C\obj\Debug\Compilador_C.Log.resources
+D:\8 semestre\SP2\Compilador C\Compilador C\bin\Debug\Compilador C.exe.config
+D:\8 semestre\SP2\Compilador C\Compilador C\bin\Debug\Compilador C.exe
+D:\8 semestre\SP2\Compilador C\Compilador C\bin\Debug\Compilador C.pdb
+D:\8 semestre\SP2\Compilador C\Compilador C\obj\Debug\Compilador C.csprojAssemblyReference.cache
+D:\8 semestre\SP2\Compilador C\Compilador C\obj\Debug\Compilador_C.CrearUsuario.resources
+D:\8 semestre\SP2\Compilador C\Compilador C\obj\Debug\Compilador_C.Log.resources
+D:\8 semestre\SP2\Compilador C\Compilador C\obj\Debug\Compilador_C.Properties.Resources.resources
+D:\8 semestre\SP2\Compilador C\Compilador C\obj\Debug\Compilador C.csproj.GenerateResource.cache
+D:\8 semestre\SP2\Compilador C\Compilador C\obj\Debug\Compilador C.csproj.CoreCompileInputs.cache
+D:\8 semestre\SP2\Compilador C\Compilador C\obj\Debug\Compilador C.exe
+D:\8 semestre\SP2\Compilador C\Compilador C\obj\Debug\Compilador C.pdb
+D:\8 semestre\SP2\Compilador C\Compilador C\obj\Debug\Compilador_C.Compilador.resources

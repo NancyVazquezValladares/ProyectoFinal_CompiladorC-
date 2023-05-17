@@ -1,0 +1,20 @@
+Compilador Id  0
+<< C.Esp
+>  C.Esp
+<< C.Esp
+<< C.Esp
+>= C.Esp
+>= C.Esp
+>= C.Esp
+>= C.Esp
+9 Cnte. Entera0
+9 Cnte. Entera0
+For   Pr   21
+else   Pr   15
+Facultad Id  1
+de Id  2
+ingenieria Id  3
+Mecanica Id  4
+y Id  5
+Electrica Id  6
+Electrica Id  6

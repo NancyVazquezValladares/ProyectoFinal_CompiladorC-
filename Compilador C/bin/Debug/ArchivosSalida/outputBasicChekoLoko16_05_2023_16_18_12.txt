@@ -1,0 +1,27 @@
+Compilador Id  0
+Compilador Id  0
+>  C.Esp
+>  C.Esp
+>= C.Esp
+" C.Esp
+salu2 Id  1
+" C.Esp
+9 Cnte. Entera0
+9 Cnte. Entera0
+9 Cnte. Entera0
+ 6 Cnte. Real0
+ 6 Cnte. Real0
+ 1 Cnte. Real1
+For   Pr   17
+else Id  2
+Facultad Id  3
+Facultad Id  3
+e Id  4
+e Id  4
+ngenieria Id  5
+ngenieria Id  5
+ecanica Id  6
+ecanica Id  6
+ecanica Id  6
+lectrica Id  7
+lectrica Id  7
